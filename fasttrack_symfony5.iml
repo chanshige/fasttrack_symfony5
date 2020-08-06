@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/www/tests" isTestSource="true" packagePrefix="App\Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/www/src" isTestSource="false" packagePrefix="App\" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/cache-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/config" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/dependency-injection" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/dotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/filesystem" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/flex" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/framework-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/yaml" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
