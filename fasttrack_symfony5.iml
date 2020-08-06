@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/www/tests" isTestSource="true" packagePrefix="App\Tests\" />
       <sourceFolder url="file://$MODULE_DIR$/www/src" isTestSource="false" packagePrefix="App\" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/monolog/monolog" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/cache" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/container" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/psr/event-dispatcher" />
@@ -14,6 +15,7 @@
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/cache-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/config" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/debug-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/dependency-injection" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/deprecation-contracts" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/dotenv" />
@@ -26,6 +28,8 @@
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/framework-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/http-foundation" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/monolog-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/monolog-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-intl-grapheme" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-intl-normalizer" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-mbstring" />
@@ -33,10 +37,16 @@
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/polyfill-php80" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/routing" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/stopwatch" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/twig-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/twig-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/var-dumper" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/var-exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/web-profiler-bundle" />
       <excludeFolder url="file://$MODULE_DIR$/www/vendor/symfony/yaml" />
+      <excludeFolder url="file://$MODULE_DIR$/www/vendor/twig/twig" />
     </content>
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
