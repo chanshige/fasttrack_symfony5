@@ -50,6 +50,41 @@
       <path value="$PROJECT_DIR$/www/vendor/doctrine/lexer" />
       <path value="$PROJECT_DIR$/www/vendor/doctrine/annotations" />
       <path value="$PROJECT_DIR$/www/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/www/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/www/vendor/webimpress/safe-writer" />
+      <path value="$PROJECT_DIR$/www/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/www/vendor/laminas/laminas-code" />
+      <path value="$PROJECT_DIR$/www/vendor/laminas/laminas-zendframework-bridge" />
+      <path value="$PROJECT_DIR$/www/vendor/laminas/laminas-eventmanager" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/www/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-uuid" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/uid" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/www/vendor/symfony/asset" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="7.2" />
